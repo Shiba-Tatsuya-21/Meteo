@@ -1,2 +1,2 @@
-# Meteo
+# Méteo
 Application android qui en fonction de la ville renseignée retourne de nombreuses informations météorologiques: la température,l'humidité, le vent ...
